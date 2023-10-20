@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\ExceptionTask\\ExceptionTask\\ExceptionTask.csproj",
+      "projectUniqueName": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\Exception\\ExceptionTask\\ExceptionTask\\ExceptionTask.csproj",
       "projectName": "ExceptionTask",
-      "projectPath": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\ExceptionTask\\ExceptionTask\\ExceptionTask.csproj",
+      "projectPath": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\Exception\\ExceptionTask\\ExceptionTask\\ExceptionTask.csproj",
       "packagesPath": "C:\\Users\\elvin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\ExceptionTask\\ExceptionTask\\obj\\",
+      "outputPath": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\Exception\\ExceptionTask\\ExceptionTask\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\elvin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\ExceptionTask\\TaskClasses\\TaskClasses.csproj": {
-              "projectPath": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\ExceptionTask\\TaskClasses\\TaskClasses.csproj"
+            "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\Exception\\ExceptionTask\\TaskClasses\\TaskClasses.csproj": {
+              "projectPath": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\Exception\\ExceptionTask\\TaskClasses\\TaskClasses.csproj"
             }
           }
         }

@@ -9,3 +9,14 @@ C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\ExceptionTask\Task
 C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\ExceptionTask\TaskClasses\obj\Debug\net6.0\refint\TaskClasses.dll
 C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\ExceptionTask\TaskClasses\obj\Debug\net6.0\TaskClasses.pdb
 C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\ExceptionTask\TaskClasses\obj\Debug\net6.0\ref\TaskClasses.dll
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\Exception\ExceptionTask\TaskClasses\bin\Debug\net6.0\TaskClasses.deps.json
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\Exception\ExceptionTask\TaskClasses\bin\Debug\net6.0\TaskClasses.dll
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\Exception\ExceptionTask\TaskClasses\bin\Debug\net6.0\TaskClasses.pdb
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\Exception\ExceptionTask\TaskClasses\obj\Debug\net6.0\TaskClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\Exception\ExceptionTask\TaskClasses\obj\Debug\net6.0\TaskClasses.AssemblyInfoInputs.cache
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\Exception\ExceptionTask\TaskClasses\obj\Debug\net6.0\TaskClasses.AssemblyInfo.cs
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\Exception\ExceptionTask\TaskClasses\obj\Debug\net6.0\TaskClasses.csproj.CoreCompileInputs.cache
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\Exception\ExceptionTask\TaskClasses\obj\Debug\net6.0\TaskClasses.dll
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\Exception\ExceptionTask\TaskClasses\obj\Debug\net6.0\refint\TaskClasses.dll
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\Exception\ExceptionTask\TaskClasses\obj\Debug\net6.0\TaskClasses.pdb
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\Exception\ExceptionTask\TaskClasses\obj\Debug\net6.0\ref\TaskClasses.dll

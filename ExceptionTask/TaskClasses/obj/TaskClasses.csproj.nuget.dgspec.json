@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\ExceptionTask\\TaskClasses\\TaskClasses.csproj": {}
+    "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\Exception\\ExceptionTask\\TaskClasses\\TaskClasses.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\ExceptionTask\\TaskClasses\\TaskClasses.csproj": {
+    "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\Exception\\ExceptionTask\\TaskClasses\\TaskClasses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\ExceptionTask\\TaskClasses\\TaskClasses.csproj",
+        "projectUniqueName": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\Exception\\ExceptionTask\\TaskClasses\\TaskClasses.csproj",
         "projectName": "TaskClasses",
-        "projectPath": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\ExceptionTask\\TaskClasses\\TaskClasses.csproj",
+        "projectPath": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\Exception\\ExceptionTask\\TaskClasses\\TaskClasses.csproj",
         "packagesPath": "C:\\Users\\elvin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\ExceptionTask\\TaskClasses\\obj\\",
+        "outputPath": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\Exception\\ExceptionTask\\TaskClasses\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elvin\\AppData\\Roaming\\NuGet\\NuGet.Config",
